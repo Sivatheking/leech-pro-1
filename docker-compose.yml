@@ -5,3 +5,5 @@ services:
     environment:
       TG_BOT_TOKEN: $TG_BOT_TOKEN
       APP_ID: $APP_ID
+      API_HASH: $API_HASH
+      
